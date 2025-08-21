@@ -1,2 +1,2 @@
-web: gunicorn portfoilio_kiran.wsgi
+web: gunicorn portfolio.wsgi --log-file -
 
